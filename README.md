@@ -24,6 +24,7 @@ python encrypt.py password input.txt output
 python decrypt.py password output input_recuperat.txt
 ```
 ## © Copyright 2021
-&nbsp;@vladioan @cristina-timbur 
-   
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; @vladioan   &nbsp;  @cristina-timbur 
+
 <p align="right">(<a href="#top">back to top</a>)</p>
