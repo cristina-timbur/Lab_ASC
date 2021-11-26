@@ -23,8 +23,8 @@ python encrypt.py password input.txt output
 ```bash
 python decrypt.py password output input_recuperat.txt
 ```
-## © Copyright 2021
+## Copyright © 2021
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; @vladioan   &nbsp;  @cristina-timbur 
+@vladioan &nbsp;@cristina-timbur 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
